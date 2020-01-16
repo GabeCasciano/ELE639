@@ -1,2 +1,2 @@
 # ELE639
-Control Systems Labs
+Labs for ELE639 - Control Systems
